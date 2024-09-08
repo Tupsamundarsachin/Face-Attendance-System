@@ -72,9 +72,9 @@ log.txt: Attendance log file that stores login timestamps of users.
 
 ## How It Works
 
-Face Detection: Uses the face_recognition library to detect faces in the webcam feed.
-Face Recognition: Compares detected faces with stored encodings in the database to identify users.
-Database: Stores user face encodings in a .pickle file for quick lookup during recognition.
+a) Face Detection: Uses the face_recognition library to detect faces in the webcam feed.
+b) Face Recognition: Compares detected faces with stored encodings in the database to identify users.
+c) Database: Stores user face encodings in a .pickle file for quick lookup during recognition.
 
 
 
