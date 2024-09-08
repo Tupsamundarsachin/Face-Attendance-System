@@ -2,6 +2,7 @@
 
 The Face Attendance System is a computer vision-based application that detects and recognizes faces, then logs attendance automatically. If an unregistered user tries to log in, the system identifies the person as "unknown" and prompts for registration.
 
+![face](https://github.com/user-attachments/assets/59221159-ffd9-4c6c-afa4-d6e382cba240)
 
 ## Dataset
 
