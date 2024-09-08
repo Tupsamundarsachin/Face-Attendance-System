@@ -10,10 +10,10 @@ Dataset used in this project is available on https://drive.google.com/drive/fold
 
 ## Features
 
-Face Detection and Recognition: Detects faces from a live webcam feed and matches them with registered users.
-Automatic Attendance Logging: Logs the attendance of recognized users with timestamps.
-New User Registration: Allows the registration of new users by capturing their facial data and storing it in a database.
-Real-time Processing: Continuously processes webcam feed for immediate user recognition and feedback.
+1) Face Detection and Recognition: Detects faces from a live webcam feed and matches them with registered users.
+2) Automatic Attendance Logging: Logs the attendance of recognized users with timestamps.
+3) New User Registration: Allows the registration of new users by capturing their facial data and storing it in a database.
+4) Real-time Processing: Continuously processes webcam feed for immediate user recognition and feedback.
 
 ## Requirements
 
